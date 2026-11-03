@@ -72,8 +72,8 @@ class _HomeScreenState extends State<HomeScreen> {
           geometry: demoTrain,
           textField: '🚆',
           textSize: 30,
-          textAllowOverlap: true,
           textIgnorePlacement: true,
+        
         ),
       );
       if (mounted) {
