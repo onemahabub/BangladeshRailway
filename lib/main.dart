@@ -71,8 +71,7 @@ class _HomeScreenState extends State<HomeScreen> {
         SymbolOptions(
           geometry: demoTrain,
           textField: '🚆',
-          textSize: 30,  
-          textIgnorePlacement: true,
+          textSize: 30,
         ),
       );
       if (mounted) {
